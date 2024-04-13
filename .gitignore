@@ -1,5 +1,8 @@
 tags
 
 *.elf
+*.hex
+*.lst
 *.map
 *.o
+*.siz
